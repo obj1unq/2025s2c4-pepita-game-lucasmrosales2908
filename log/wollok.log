@@ -1117,3 +1117,4 @@
 {"level":"info","message":"⌛ Validating pepita.wlk","timeElapsed":150,"timestamp":"2025-04-28T20:46:48.326Z"}
 {"level":"info","message":"⌛ Validating extras.wlk","timeElapsed":177,"timestamp":"2025-04-28T20:46:48.505Z"}
 {"level":"info","message":"⌛ Validating comidas.wlk","timeElapsed":162,"timestamp":"2025-04-28T20:46:48.666Z"}
+{"level":"info","message":"⌛ Building environment","timeElapsed":155,"timestamp":"2025-09-18T23:03:22.923Z"}
